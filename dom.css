@@ -1,0 +1,32 @@
+body {
+
+background-color: 
+
+}
+
+
+
+#heading {
+color: beige;
+}
+
+
+#domdom{
+
+
+
+    color: blue;
+    border: 2mm;
+    border-color: black;
+}
+
+.box{height: 100px;
+    width: 100px;
+    border: 2mm;
+    border-radius: 10mm;
+background-color: blue;
+text-align: center;
+
+margin: 5px;
+
+}

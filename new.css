@@ -1,0 +1,17 @@
+.new1 {
+background-color: blue;
+font-size: large;
+height: 100px;
+width: 100px;
+text-align: center;
+border: 2px black solid;
+text-transform: uppercase;
+}
+
+
+
+
+.newclass{
+
+    background-color: yellow;
+}
