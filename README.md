@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RISHIKARIR
+- 👋 Hi, I’m @Parth
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Frontend development
 - 💞️ I’m looking to collaborate on ...
